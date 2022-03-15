@@ -1,7 +1,7 @@
 algoritmo "aumentodesalario"
 
-// DescriÁ„o : Solicitar o s·rio e aumentar 35%
-// Autor : Marcus VinÌcius Bizerrra Moreira
+// Descri√ß√£o : Solicitar o s√°rio e aumentar 35%
+// Autor : Marcus Vin√≠cius Bizerrra Moreira
 
 var
 
@@ -24,7 +24,7 @@ limpatela
 escreval("--Aumento salarial--")
 escreval("--",nome)
 escreval("--------------------------------------------")
-escreval("Digite o seu sal·rio atual:")
+escreval("Digite o seu sal√°rio atual:")
 leia(salario)
 
 escreval("--------------------------------------------")
@@ -45,9 +45,9 @@ limpatela
 escreval("--Aumento salarial--")
 escreval("--",nome)
 escreval("--------------------------------------------")
-escreval("O seu aumento È de: R$",porcentagem," reais")
+escreval("O seu aumento √© de: R$",porcentagem," reais")
 escreval("--------------------------------------------")
-escreval("O seu sal·rio atual È: R$",salario35," reais")
+escreval("O seu sal√°rio atual √©: R$",salario35," reais")
 escreval("--------------------------------------------")
 
 
