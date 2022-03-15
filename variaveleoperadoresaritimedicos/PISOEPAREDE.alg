@@ -1,7 +1,7 @@
 algoritmo "pisoeparede"
 
-// Descrição : Solicitar a aultura e a largura da parede e do piso para calcular a quantidade de metros quadrados para o revestimento
-// Autor : Marcus Vinícius Bizerrra Moreira
+// DescriÃ§Ã£o : Solicitar a aultura e a largura da parede e do piso para calcular a quantidade de metros quadrados para o revestimento
+// Autor : Marcus VinÃ­cius Bizerrra Moreira
 
 var
 
@@ -14,7 +14,7 @@ inicio
 
 escreval("---- Piso e Parede ----")
 escreval("Bem vindo!!")
-escreval("Aqui você vai calcular os metros quadrados da sua parede e piso.")
+escreval("Aqui vocÃª vai calcular os metros quadrados da sua parede e piso.")
 escreval("------------------------------------------------------------------")
 escreval("Primeiramente escreva seu nome: ")
 leia(nome)
