@@ -6,3 +6,6 @@ https://scratch.mit.edu/projects/663785101
 
 Projeto Movimento scratch:
 https://scratch.mit.edu/projects/671434009
+
+Projeto definir variavel scratch:
+https://scratch.mit.edu/projects/671447728
