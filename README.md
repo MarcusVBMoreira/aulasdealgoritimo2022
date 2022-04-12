@@ -12,3 +12,6 @@ https://scratch.mit.edu/projects/671447728
 
 Projeto alfandega da receita federal:
 https://scratch.mit.edu/projects/663832766
+
+Projeto jogo estilo mário:
+https://scratch.mit.edu/projects/674936504
