@@ -2,19 +2,19 @@
 aulasdealgoritimo2022
 
 Projeto diálogo scratch:
-https://scratch.mit.edu/projects/663785101
+<p>https://scratch.mit.edu/projects/663785101</p>
 
 Projeto Movimento scratch:
-https://scratch.mit.edu/projects/671434009
+<p>https://scratch.mit.edu/projects/671434009</p>
 
 Projeto definir variavel scratch:
-https://scratch.mit.edu/projects/671447728
+<p>https://scratch.mit.edu/projects/671447728</p>
 
 Projeto alfandega da receita federal:
-https://scratch.mit.edu/projects/663832766
+<p>https://scratch.mit.edu/projects/663832766</p>
 
 Projeto jogo estilo mário:
-https://scratch.mit.edu/projects/674936504
+<p>https://scratch.mit.edu/projects/674936504</p>
 <p> </p>
 <p> </p>
 
