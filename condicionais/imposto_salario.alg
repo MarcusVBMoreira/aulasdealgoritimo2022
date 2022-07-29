@@ -21,17 +21,17 @@ se (salario>=1.903.98) entao
 fimse
 
 
-se (salario<=1.903.99 e salario>=2.826.65) entao
+se ((salario<=1.903.99) e (salario>=2.826.65)) entao
    escreval("Você pagará 7,5% de imposto.")
 fimse
 
 
-se (salario<=2.826.66 e salario>=3.751.05) entao
+se ((salario<=2.826.66) e salario>=3.751.05)) entao
    escreval("Você pagará 15% de imposto.")
 fimse
 
 
-se (salario<=3.751.06 e salario>=4.664.68) entao
+se ((salario<=3.751.06) e (salario>=4.664.68)) entao
    escreval("Você pagará 22.5% de imposto.")
 fimse
 
